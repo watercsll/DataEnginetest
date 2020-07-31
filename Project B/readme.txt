@@ -1,1 +1,1 @@
-#project B code and test result
+#基于客户ID来分析其购买产品。使用了efficient_apriori工具包以及mlxtend工具包进行了频繁项集及关联规则的分析。
