@@ -1,1 +1,1 @@
-#Project A code and test result
+#利用bs4爬取汽车的名称，价格，网页链接信息。同时从读取的价格信息中分析出最低价格及最高价格。
